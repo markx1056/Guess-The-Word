@@ -2,8 +2,6 @@ Guess the Word:
 
 A console-based word guessing game built in C++ where players reveal hidden words letter by letter before running out of lives, featuring an ASCII hangman display, a hint system, and a round-based scoring system.
 
-
-
 Features:
 
 -> Guess hidden words by entering one letter at a time
