@@ -1,9 +1,3 @@
-// ============================================================
-//  GUESS THE WORD -- Console Game in C++
-//  Compile : g++ -std=c++17 -o guess_the_word guess_the_word.cpp
-//  Run     : ./guess_the_word
-// ============================================================
-
 #include <iostream>
 #include <vector>
 #include <string>
