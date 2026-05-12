@@ -3,6 +3,7 @@
 A console-based word-guessing game built in C++17. Guess the hidden word 
 letter by letter before the hangman is complete. Features categories, 
 hints, scoring, and ASCII art gallows.
+
 ![Gameplay screenshot](gameplay.png)
 
 ---
