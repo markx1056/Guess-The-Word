@@ -48,3 +48,8 @@ g++ -std=c++17 -o guess_the_word Guess_The_Word.cpp
 Requires a C++17-compatible compiler (GCC 7+, Clang 5+, MSVC 2017+).
 
 ---
+
+## Author
+
+Jawad Ahmed
+🔗 [LinkedIn](https://linkedin.com/in/jawad-ahmed-a80b33327)
