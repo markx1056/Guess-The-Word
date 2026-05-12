@@ -22,6 +22,17 @@ hints, scoring, and ASCII art gallows.
 
 ---
 
+## Scoring
+
+| Event | Points |
+|---|---|
+| Correct word guess | +50 |
+| Each remaining life | +10 |
+| Using hint | -1 life |
+| Failed round | +0 |
+
+---
+
 ## Word categories
 
 | Category | Example words |
