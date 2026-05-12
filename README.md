@@ -22,6 +22,17 @@ hints, scoring, and ASCII art gallows.
 
 ---
 
+## Word categories
+
+| Category | Example words |
+|---|---|
+| Tech | ALGORITHM, SYNTAX, BINARY, PYTHON |
+| Science | QUANTUM, AURORA, METEOR, FOSSIL |
+| Nature | JUNGLE, GLACIER, VOLCANO, OCEAN |
+| General | COMPASS, CIPHER, LIBRARY |
+
+---
+
 ## How to run
 
 **Compile:**
